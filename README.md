@@ -16,7 +16,7 @@ KKTSD adalah satu ekosistem Home Security Operations Center (SOC) yang beroperas
 
 **The Problem:** Dashboard berasaskan web secara tradisinya terdedah kepada bot scanner dan serangan brute-force hanya dengan kewujudannya di rangkaian awam (internet).
 
-**The Antri Gravity Solution:** Zero web-facing authentication.
+**The KKTSD Solution:** Zero web-facing authentication.
 Dashboard ini menggunakan mekanisme **Physical Token Air-Gapped**. Antaramuka web (UI) dashboard akan kekal offline sepenuhnya (memulangkan ralat Fake 404/502) sehinggalah satu pemacu USB fizikal yang telah didaftarkan dimasukkan ke dalam perkakasan server.
 
 ### ⚙️ Cara Ia Berfungsi
