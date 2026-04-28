@@ -1,14 +1,14 @@
 # Kiw-Kiw-Tech-SOC-Dashboard-Server
 A Dockerized, zero-trust Home SOC featuring an air-gapped physical USB key system, real-time threat mapping, and Telegram bot autonomy. Engineered by Kiw Kiw Tech.(still progress)
 
-# 🛡️ Project Antri Gravity: Advanced Home SOC
+# 🛡️ Project KKTSD: Advanced Home SOC
 
 **Developed by KIW KIW TECH**
 
 > 🚧 **STATUS: STILL IN DEVELOPMENT (WORK IN PROGRESS)**
 > Kami berkongsi sistem automasi teras yang telah kami bangunkan khas untuk infrastruktur mikro-server kami sendiri. Projek ini sentiasa berevolusi. Jika anda mempunyai sebarang idea tambahan, maklum balas, atau cadangan fungsi, sila kongsikan! Mari kita bekerjasama untuk membina versi yang paling selamat dan terbaik.
 
-Antri Gravity adalah satu ekosistem Home Security Operations Center (SOC) yang beroperasi sepenuhnya dalam persekitaran Docker yang berprestasi tinggi. Ia direka khusus untuk mengoptimumkan perkakasan kelas enterprise, menampilkan antaramuka hibrid GUI/Terminal, integrasi Telegram Bot untuk pelaksanaan arahan jarak jauh, serta pemetaan risikan siber secara real-time.
+KKTSD adalah satu ekosistem Home Security Operations Center (SOC) yang beroperasi sepenuhnya dalam persekitaran Docker yang berprestasi tinggi. Ia direka khusus untuk mengoptimumkan perkakasan kelas enterprise, menampilkan antaramuka hibrid GUI/Terminal, integrasi Telegram Bot untuk pelaksanaan arahan jarak jauh, serta pemetaan risikan siber secara real-time.
 
 ---
 
